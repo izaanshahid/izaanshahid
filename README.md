@@ -3,13 +3,11 @@
 
 - 📫 How to reach me **izaanshahid4@outlook.com**
 
-- ⚡ Fun fact **I think Im funny :(**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/izaan-shahid-aa453912b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/izaan-shahid-aa453912b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/izaanshahid_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/izaanshahid_/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/izaanshahid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/izaanshahid1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/izaan-shahid-aa453912b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaan-shahid-aa453912b" height="30" width="40" /></a>
+<a href="https://instagram.com/izaanshahid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izaanshahid_" height="30" width="40" /></a>
+<a href="https://www.behance.net/izaanshahid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="izaanshahid1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
