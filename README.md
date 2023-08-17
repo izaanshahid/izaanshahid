@@ -1,3 +1,4 @@
+![logo](https://github.com/izaanshahid/izaanshahid/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Izaan Shahid</h1>
 <h3 align="center">A passionate software developer</h3>
 
